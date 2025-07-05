@@ -1,0 +1,256 @@
+header{
+    width: 100%;
+    background-image: url(portada\ h4.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+
+h1{
+    height: 200px;
+    margin-bottom: 35px;
+    text-align: center;
+    background-color: darkred;
+    color: antiquewhite;
+}
+section{
+    margin: auto;
+    display: flex;
+    width: 1200px;
+    color: antiquewhite;
+}
+
+.galeria{
+    display: flex;
+}
+.grupos{
+    width: 250px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.fotos1{
+    width: 250px;
+    height: 350px;
+    background-image: url(Icono\ logotipo.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+.fotos2{
+    width: 250px;
+    height: 350px;
+    background-image: url(icono\ juegos.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+.fotos3{
+    width: 250px;
+    height: 350px;
+    background-image: url(icono\ de\ portadas.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+.fotos4{
+    width: 250px;
+    height: 350px;
+    background-image: url(icono\ de\ diseño\ basico.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+.fotos5{
+    width: 250px;
+    height: 350px;
+    background-image: url(icono\ de\ dibujos.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+.fotos6{
+    width: 250px;
+    height: 350px;
+    background-image: url(icono\ de\ rieka.jpg);
+    background-size: cover contain;
+    background-position: center;
+}
+.imagenes{
+    width: 250px;
+    margin: 15px;
+    padding: 10px;
+    margin: auto;
+}
+.im{
+    width: 250px;
+    margin: 15px;
+    padding: 10px;
+}
+footer{
+    padding: 80px;
+    text-align: center;
+    background-color: darkred;
+    color: antiquewhite;
+}
+article{
+    margin-right: 35px;
+    background-color: brown;
+    width: 1200px;
+}
+.albun{
+    padding: 45px;
+    margin: auto;
+    width: 1200px;
+    display: block;
+}
+.alt1{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(rieka.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt2{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(icono\ de\ rieka.jpg);
+    background-size: cover contain;
+    margin: auto;
+    
+}
+.alt3{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(what.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt4{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(ropa\ personaje.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt5{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(dibujo\ 1.png);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt6{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(dibujo\ 2.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt7{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(dibujo\ 3.png);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt8{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(dibujo\ 7.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt9{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(flower.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt10{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(anime.png);
+    background-size: cover contain;
+    margin: auto;
+}
+.alt11{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(anime.png);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt12{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(mesaa.png);
+    background-size: cover contain;
+    margin: auto;
+}
+.alt13{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(cartas.png);
+    background-size: cover contain;
+    margin: auto;
+}
+.alt14{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(glisina.jpg);
+    background-size: cover contain;
+    background-position: center;
+    margin: auto;
+}
+.alt15{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(miniso.png);
+    background-size: cover contain;
+    margin: auto;
+}
+.alt16{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(glisina.jpg);
+    background-size: cover contain;
+    margin: auto;
+}
+.alt17{
+    width: 400px;
+    height: 300px;
+    padding: 40px;
+    background-image: url(animat.png);
+    background-size: cover contain;
+    margin: auto;
+}
+
+.pel{
+    text-align: center;
+    color: antiquewhite;
+
+}
+body{
+    background-image: url(portada\ h3.jpg);
+}
